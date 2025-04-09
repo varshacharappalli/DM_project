@@ -32,7 +32,7 @@ The choice of DTW with acoustic features is suitable for a situation where:
 
 ## 3. Architecture 
 
-![alt text](image.png)
+![Arch Diagram](https://github.com/varshacharappalli/DM_project/blob/main/arch%5B1%5D.png)
 
 ## 4. Module Description
 
