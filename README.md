@@ -127,7 +127,7 @@ The implementation follows this sequence:
 4. When detecting emotions:
    - Record audio input
    - Process the audio through the same feature extraction pipeline
-   - Compare features to stored templates using DTW
+   - Compare features to stored templates using DTW which is written from scratch
    - Select the emotion with minimum average distance
    - Calculate confidence based on relative distances
 
